@@ -1,0 +1,3 @@
+do_token = "#digital ocean api key"
+
+public_key_path = "path to ssh keys"
